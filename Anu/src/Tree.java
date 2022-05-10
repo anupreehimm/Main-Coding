@@ -1,6 +1,6 @@
 
 public class Tree {
-	public void Tree()
+	public void NewTree()
 	{
 		System.out.println("Tree");
 	}

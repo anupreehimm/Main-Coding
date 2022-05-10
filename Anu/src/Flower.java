@@ -1,6 +1,6 @@
 
 public class Flower extends Tree{
-	public void Flower()
+	public Flower()
 	{
 		System.out.println("Flower");
 	}
@@ -8,12 +8,17 @@ public class Flower extends Tree{
 	public static void main(String[] args) {
 		
 		Flower n= new Flower();
-		n.Tree();
+		n.NewTree();
 
 		n.Flower();
 		
 		// TODO Auto-generated method stub
 
+	}
+
+	private void Flower() {
+		// TODO Auto-generated method stub
+		
 	}
 
 }
