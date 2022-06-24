@@ -9,6 +9,7 @@ public class abstract1 extends Abbracts{
 		n.dance();
 	}
 
+	
 	@Override
 	void run() {
 		// TODO Auto-generated method stub
